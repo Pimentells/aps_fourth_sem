@@ -4,5 +4,5 @@ public interface Sort {
     /**
      * @return A sorted array of the same type
      */
-    int[] sort(int[] array);
+    double[] sort(double[] array);
 }
